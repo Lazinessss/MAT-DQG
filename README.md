@@ -19,7 +19,6 @@
 1. General program:
    (1) ModelsCV.py：A variety of machine-learned regression models for modeling and prediction;
    (2) Printting.py：Creating folders and workbooks, and write 1D or 2D data to tables;
-   (3) CodesForValidation/Training.py：Storing some frequently called functions.
 2. Feature selection and machine learning model prediction:
    (1) FeatureSelection/MBPSO.py：The main algorithm of the NCOR-FS method (including population initialization and evolution);
    (2) FeatureSelection/NondominatedSolutionCal.py：Non-dominant solution recognition;
